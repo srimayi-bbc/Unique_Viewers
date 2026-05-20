@@ -1,0 +1,12 @@
+[project]
+name = "unique-viewers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "playwright>=1.59.0",
+    "pandas>=2.2.0",
+    "openpyxl>=3.1.2",
+    "cryptography>=48.0.0",
+]
