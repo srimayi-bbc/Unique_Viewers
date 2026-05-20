@@ -17,3 +17,5 @@ browser_profile
 *.xlsx
 
 Channel*/
+
+*.DS_Store
